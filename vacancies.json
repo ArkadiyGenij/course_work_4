@@ -1,0 +1,802 @@
+[
+    {
+        "name": "Стажер it специалист",
+        "URL": "https://api.hh.ru/vacancies/96063685?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Знание языка программирования <highlighttext>Java</highlighttext> и основ работы с фреймворком Spring. Умение работать с системами контроля версий (например, Git). ",
+        "responsibility": "Стажер в области IT (<highlighttext>Java</highlighttext>-разработка и системный анализ). Разработка программного обеспечения на <highlighttext>Java</highlighttext> с использованием фреймворка Spring. "
+    },
+    {
+        "name": "Ведущий программист Java (удалённо)",
+        "URL": "https://api.hh.ru/vacancies/92430462?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Внимательность, инициативность, готовность к большому неструктурированному объему задач. ТЕХНИЧЕСКИЕ КОМПЕТЕНЦИИ: <highlighttext>Java</highlighttext> 8/11 Spring framework. Rest PostgreSQL. Желателен опыт работы...",
+        "responsibility": "Проектирование и разработка модулей back-end приложения. Покрытие тестами разработанного функционала. Проведение code review коллег по команде. Декомпозиция и оценка..."
+    },
+    {
+        "name": "Junior Java Developer",
+        "URL": "https://api.hh.ru/vacancies/95873557?host=hh.ru",
+        "to_salary": null,
+        "from_salary": 75000,
+        "requirements": "Знание языка <highlighttext>Java</highlighttext>. Опыт работы с системой контроля версий GIT. Знание фреймворка Spring и контейнеризации с помощью Docker. ",
+        "responsibility": null
+    },
+    {
+        "name": "Junior Backend разработчик",
+        "URL": "https://api.hh.ru/vacancies/95999458?host=hh.ru",
+        "to_salary": 400000,
+        "from_salary": null,
+        "requirements": "Высшее образование. Хорошее знание принципов ООП, <highlighttext>Java</highlighttext>. Опыт работы со Spring boot. Понимание принципов разработки высоконагруженных систем.",
+        "responsibility": "Разработка веб приложений. Взаимодействие с сотрудниками со смежных подразделений. Реализация бизнес логики приложения."
+    },
+    {
+        "name": "Стажёр по направлению \"Java\" от SBERSEASONS",
+        "URL": "https://api.hh.ru/vacancies/96220157?host=hh.ru",
+        "to_salary": 63600,
+        "from_salary": null,
+        "requirements": "Необходимые навыки: — <highlighttext>Java</highlighttext> или Kotlin. — Spring Core. — Git. — Linux command line. Твоим преимуществом будет: — знание паттернов поведения SOLID. — ",
+        "responsibility": "участвовать в проекте в роли backend-<highlighttext>разработчика</highlighttext>. — авзаимодействовать с аналитиками, frontend и backend-<highlighttext>разработчиками</highlighttext> и другими участниками команды в рамках..."
+    },
+    {
+        "name": "Java-разработчик (Junior)",
+        "URL": "https://api.hh.ru/vacancies/96246250?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "...плюсом будет знание <highlighttext>Java</highlighttext> EE, React, Spring. Владение английским языком на уровне чтения технической литературы. Желание развиваться как <highlighttext>java</highlighttext> <highlighttext>разработчик</highlighttext>.",
+        "responsibility": "Разработка и развитие сайтов компании. Участие в разработке решений в области автоматизации логистических процессов. Участие в разработке высоконагруженных бизнес-систем."
+    },
+    {
+        "name": "Стажёр-тестировщик сайтов и мобильных приложений",
+        "URL": "https://api.hh.ru/vacancies/94473405?host=hh.ru",
+        "to_salary": 30000,
+        "from_salary": 15000,
+        "requirements": "Понимание современных методологий тестирования. Умение разрабатывать и продумывать различные тест-кейсы и тест-планы. Широкий кругозор в области современных мобильных...",
+        "responsibility": "Создание и поддержание документации по тестированию. Взаимодействие с командой <highlighttext>разработчиков</highlighttext>: получение информации, сообщение о найденных ошибках, контроль за их исправлением."
+    },
+    {
+        "name": "Junior Golang Developer",
+        "URL": "https://api.hh.ru/vacancies/96194079?host=hh.ru",
+        "to_salary": null,
+        "from_salary": 75000,
+        "requirements": "Опыт с другими языками программирования, такими как Python, <highlighttext>Java</highlighttext>, C++ и т. д., будет преимуществом. Опыт работы в других стеках.",
+        "responsibility": null
+    },
+    {
+        "name": "Frontend-разработчик (React)",
+        "URL": "https://api.hh.ru/vacancies/94615881?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Знание JavaScript, Typescript. Опыт работы с React. Опыт работы с mobx, mobx-state-tree или аналогами. Опыт работы с MUI. ",
+        "responsibility": "Разработка веб-версии приложения. Взаимодействие с командой бэкенда. Писать код на React. Разрабатывать MUI компоненты. Разрабатывать мобильный веб плагин с..."
+    },
+    {
+        "name": "Java-разработчик",
+        "URL": "https://api.hh.ru/vacancies/95077461?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Опыт работы с Git, Maven.​. ​​​​​​​Опыт разработки на <highlighttext>java</highlighttext> 17+. Опыт разработки в сфере финансовых технологий. Опыт работы с...",
+        "responsibility": "Реализация различных модулей разрабатываемых приложений с использованием <highlighttext>Java</highlighttext> и Spring boot. Участие в проектировании различных сервисов. Написание unit тестов."
+    },
+    {
+        "name": "Инженер-программист",
+        "URL": "https://api.hh.ru/vacancies/96059818?host=hh.ru",
+        "to_salary": 2000,
+        "from_salary": 1200,
+        "requirements": "Уверенные знания объектно-ориентированного программирования на <highlighttext>Java</highlighttext>. Понимание принципов работы и взаимодействия клиент-серверных приложений. Опыт использования БД SQL и...",
+        "responsibility": "Участие в разработке и поддержке системы, которая взаимодействует с множеством подсистем, как внутренних, так и внешних. Создание кастомных решений для..."
+    },
+    {
+        "name": "Junior Frontend Developer",
+        "URL": "https://api.hh.ru/vacancies/96175151?host=hh.ru",
+        "to_salary": 140000,
+        "from_salary": null,
+        "requirements": "Опыт работы с mobx, zod(или подобные решения для валлидации). Знакомство и понимание BEM. Опыт самостоятельного проектирования UI. Знание <highlighttext>Java</highlighttext>. ",
+        "responsibility": "Участие в разработке и поддержке администраторских web-интерфейсов. Разработка новых и поддержка существующих web-приложений. Работа в команде, участие в..."
+    },
+    {
+        "name": "Программист Front-End",
+        "URL": "https://api.hh.ru/vacancies/96107734?host=hh.ru",
+        "to_salary": 3000,
+        "from_salary": 2000,
+        "requirements": "Знания в html5, css3, <highlighttext>java</highlighttext> script, ajax, jQuery. Знания в environment: linux, git, nginx, apache2, docker. ",
+        "responsibility": "Международный логистический оператор. Лицензированный таможенный представитель. Аккредитованный орган по сертификации. Пожарная испытательная лаборатория. Закупка товаров для клиентов из других стран. "
+    },
+    {
+        "name": "Стажёр по направлению \"Java\" от SBERSEASONS",
+        "URL": "https://api.hh.ru/vacancies/96245219?host=hh.ru",
+        "to_salary": 53950,
+        "from_salary": null,
+        "requirements": "Необходимые навыки: — <highlighttext>Java</highlighttext> или Kotlin. — Spring Core. — Git. — Linux command line. Твоим преимуществом будет: — знание паттернов поведения SOLID. — ",
+        "responsibility": "участвовать в проекте в роли backend-<highlighttext>разработчика</highlighttext>. — взаимодействовать с аналитиками, frontend и backend-<highlighttext>разработчиками</highlighttext> и другими участниками команды в рамках..."
+    },
+    {
+        "name": "Android-разработчик",
+        "URL": "https://api.hh.ru/vacancies/96171090?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Опыт коммерческой разработки на Android от 2-х лет. Уверенное знание Kotlin, <highlighttext>Java</highlighttext>, Android SDK. Понимание шаблонов проектирования и принципов...",
+        "responsibility": "Функциональное развитие приложения Dostaевский. Совершенствование кода и архитектуры приложения. Исправление багов. Написание unit-тестов. Ведение технической документации."
+    },
+    {
+        "name": "Специалист по тестированию",
+        "URL": "https://api.hh.ru/vacancies/96202879?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Опыт тестирования API, знание инструмента Postman, умение пользоваться консолью <highlighttext>разработчика</highlighttext> в браузере. Опыт написания тест-планов, чек-листов, тест-кейсов...",
+        "responsibility": "Проведение функционального, регрессионного и интеграционного тестирования IT-систем «Детского мира». Поиск, локализация, документация, оценка и отслеживание найденных дефектов. "
+    },
+    {
+        "name": "Frontend-разработчик (React)",
+        "URL": "https://api.hh.ru/vacancies/96270733?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "владение уверенными знаниями современного JavaScript. - знание HTML5, CSS3. - практический опыт работы с фреймворками React и/или Vue. - ",
+        "responsibility": "НТЦ «Вулкан» - российская аккредитованная IT-компания. Наши проекты связаны с оказанием сервисных ИТ/ИБ-услуг, разработкой прикладного ПО, созданием VR..."
+    },
+    {
+        "name": "Младший аналитик (IT)",
+        "URL": "https://api.hh.ru/vacancies/96023189?host=hh.ru",
+        "to_salary": 140000,
+        "from_salary": 100000,
+        "requirements": "Опыт работы в данной сфере необязателен. Перед трудоустройством проводится подготовка. Приветствуются базовые знания SQL, <highlighttext>Java</highlighttext>, Python, C#, JavaScript, PHP.",
+        "responsibility": "Составление схем бизнес-процессов. Составление технических заданий (ТЗ). Постановка задач <highlighttext>разработчикам</highlighttext>. Контроль сроков выполнения задач. Расстановка приоритетов по задачам. "
+    },
+    {
+        "name": "Junior Java Developer / Junior Java-разработчик",
+        "URL": "https://api.hh.ru/vacancies/96016447?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Spring Core. Spring Boot. SQL. Будет плюсом: Понимание <highlighttext>Java</highlighttext> Concurrency. Знание основных шаблонов проектирования. Опыт работы с терминалом Linux/MacOS. ",
+        "responsibility": null
+    },
+    {
+        "name": "Младший Java разработчик (стажер)",
+        "URL": "https://api.hh.ru/vacancies/95795294?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Знаешь принципы ООП ( <highlighttext>Java</highlighttext>, C#, С++,...). Имеешь базовые знания SQL. Понимаешь принципы разработки ПО и основные концепции веб-разработки. ",
+        "responsibility": "Мы предлагаем широкий спектр услуг по выполнению полномасштабных end‑to‑end проектов: от создания бизнес- и ИТ‑стратегий до их..."
+    },
+    {
+        "name": "Java-разработчик (Middle+,Senior)",
+        "URL": "https://api.hh.ru/vacancies/94615588?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Отличные знания <highlighttext>Java</highlighttext> Core и опыт работы со стеком Spring, в том числе SpringBoot. Использовали Git; Gradle/Maven. ",
+        "responsibility": "Олицетворение человеческого отношения друг к другу, культура в компании, при которой сотрудников слушают и слышат."
+    },
+    {
+        "name": "Стажер-разработчик Java",
+        "URL": "https://api.hh.ru/vacancies/95886122?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Желательно наличие собственных мини-проектов. Опыт коммерческой разработки на <highlighttext>Java</highlighttext>. Наличие собственного проекта на <highlighttext>Java</highlighttext>. Знакомство с фреймворком Spring/Spring...",
+        "responsibility": "Участие в проектах по разработке программного обеспечения. Разработка бизнес-логики, клиентского кода, отчётов. Проектирование баз данных."
+    },
+    {
+        "name": "Java разработчик (Junior)",
+        "URL": "https://api.hh.ru/vacancies/96238564?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "MSA (Micro services architecture). <highlighttext>JAVA</highlighttext> Core, Spring Framework, Hibernate. MS SQL/PostgreSQL. Git, Docker. Jira, Confluence. Знание UML. ",
+        "responsibility": "Разработка программного обеспечения. Участие в анализе требований и проектировании системы. Написание технической документации. Соблюдение стандартов кодирования."
+    },
+    {
+        "name": "Junior Java-разработчик",
+        "URL": "https://api.hh.ru/vacancies/96188027?host=hh.ru",
+        "to_salary": null,
+        "from_salary": 200000,
+        "requirements": "Высшее образование в области технических наук и технологий (компьютерная инженерия/ информационные системы/ вычислительная техника и программное обеспечение/ прикладная математика). ",
+        "responsibility": "Разработка и поддержка логики серверной части (back-end) с использованием <highlighttext>Java</highlighttext>, Spring Boot, Node JS, Play, MySql, Gradle. "
+    },
+    {
+        "name": "Java-разработчик",
+        "URL": "https://api.hh.ru/vacancies/93762906?host=hh.ru",
+        "to_salary": 200000,
+        "from_salary": null,
+        "requirements": "Опыт коммерческой разработки от 3-х лет. Разработка на <highlighttext>Java</highlighttext> 8-17 включительно. Spring framework и Hibernate на уровне понимания...",
+        "responsibility": "Написание кода и автотестов к нему, проверка кода. Анализ производительности и оптимизация. Участие в код ревью и рефакторинге. Исправление багов. "
+    },
+    {
+        "name": "Программист java junior",
+        "URL": "https://api.hh.ru/vacancies/94324580?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "...<highlighttext>Java</highlighttext> (<highlighttext>Java</highlighttext> core, <highlighttext>Java</highlighttext> EE). Опыт работы с СУБД MSSQL или PostgreSQL, знание TSQL, написание сложных запросов. Программирование на <highlighttext>Java</highlighttext>. ",
+        "responsibility": "Разработка и внедрение проектных решений для коммерческих и государственных заказчиков. Техническая поддержка ранее внедрённых решений."
+    },
+    {
+        "name": "Программист-разработчик",
+        "URL": "https://api.hh.ru/vacancies/95815246?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Высокий уровень самостоятельности, ответственности, логическое мышление, аналитические способности, усидчивость, критическое мышление, внимательность, умение работать в команде.",
+        "responsibility": "Навыки программирования на Python. Продумывать архитектуру и разработку пайплайнов по организации, сбору и хранению данных, необходимых для ML-моделей. "
+    },
+    {
+        "name": "Android разработчик (соло-разработка)",
+        "URL": "https://api.hh.ru/vacancies/96263501?host=hh.ru",
+        "to_salary": null,
+        "from_salary": 40000,
+        "requirements": "Уверенное знание <highlighttext>Java</highlighttext>. Опыт разработки под Android и знание платформы. Умение тестировать свой код. Уметь разбираться в чужом коде. ",
+        "responsibility": "Разработка не сложного мобильного приложения, тестирование, конечный готовый результат. Самостоятельно искать решения поставленных задач. Доведение приложения до законченного результата. Договорные."
+    },
+    {
+        "name": "Младший Java разработчик (стажер)",
+        "URL": "https://api.hh.ru/vacancies/95795295?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Знаешь принципы ООП ( <highlighttext>Java</highlighttext>, C#, С++,...). Имеешь базовые знания SQL. Понимаешь принципы разработки ПО и основные концепции веб-разработки. ",
+        "responsibility": "Мы предлагаем широкий спектр услуг по выполнению полномасштабных end‑to‑end проектов: от создания бизнес- и ИТ‑стратегий до их..."
+    },
+    {
+        "name": "Java-junior разработчик",
+        "URL": "https://api.hh.ru/vacancies/95997045?host=hh.ru",
+        "to_salary": 80000,
+        "from_salary": 50000,
+        "requirements": "Уверенное знание знание любого из языков программирования в контексте технологического стека. Обязательный опыт работы с брокером очереди сообщений gRPC. ",
+        "responsibility": "Брокер очереди сообщений gRPC."
+    },
+    {
+        "name": "Стажер-разработчик",
+        "URL": "https://api.hh.ru/vacancies/95705727?host=hh.ru",
+        "to_salary": null,
+        "from_salary": 40000,
+        "requirements": "Знание основ объектно-ориентированного программирования. Знание SQL. Владение языками программирования. Знание <highlighttext>Java</highlighttext>, C#, Python, C++. Опыт работы с PostgreSQL / Postgres...",
+        "responsibility": "Разработка настольных и веб-приложений. Разработка баз данных. Настройка системы. Тестирование результатов и устранение замечаний. Введение в проектную деятельность: Современные..."
+    },
+    {
+        "name": "Android Developer",
+        "URL": "https://api.hh.ru/vacancies/96199690?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Опыт коммерческой разработки мобильных приложений от 2-х лет. — Опыт разработки UI. — Умение писать многопоточные приложения. — Опыт работы с базами...",
+        "responsibility": "Проектирование, разработка и поддержка мобильных приложений. — Оптимизация производительности, устранение ошибок в существующих приложениях. — Работа в команде с тестировщиком для обеспечения..."
+    },
+    {
+        "name": "Junior Java разработчик",
+        "URL": "https://api.hh.ru/vacancies/94620487?host=hh.ru",
+        "to_salary": null,
+        "from_salary": 80000,
+        "requirements": "Уверенное знание <highlighttext>java</highlighttext>. Понимание основ работы web-приложения. Понимание основ алгоритмизации. Опыт работы с NoSQL хранилищами. Знакомство с Spring (Core...",
+        "responsibility": "Разработка бэкэнда новых проектов компании. Поддержка существующих проектов компании."
+    },
+    {
+        "name": "One day offer: Java разработчик",
+        "URL": "https://api.hh.ru/vacancies/96061356?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Применяешь на практике Spring Boot, Spring Data, Spring Security. Имеешь опыт создания распределённых систем с большой нагрузкой. На всю катушку...",
+        "responsibility": "Чувствуешь себя как рыба в воде в Spring и его экосистеме. Проводишь code review, быстро выявляешь типичные ошибки в коде. "
+    },
+    {
+        "name": "WEB-разработчик",
+        "URL": "https://api.hh.ru/vacancies/96161346?host=hh.ru",
+        "to_salary": null,
+        "from_salary": 100000,
+        "requirements": "Умение качественно программировать на одном из языков программирования: Python, Go, C/C++, <highlighttext>Java</highlighttext>. Опыт коммерческой разработки на фреймворке React.is либо...",
+        "responsibility": "Разработка клиентской части веб- и десктоп- приложений с использованием фреймворка React.js. Разработка серверной части системы на Python."
+    },
+    {
+        "name": "Frontend Developer (React)",
+        "URL": "https://api.hh.ru/vacancies/95214632?host=hh.ru",
+        "to_salary": 300000,
+        "from_salary": 200000,
+        "requirements": "Опыт разработки на JavaScript/TypeScript от 4 лет. Опыт работы с React от 2 лет. Опыт работы с библиотекой контроля...",
+        "responsibility": "Разрабатываем сложную многокомпонентную enterprise платформу. Работаем по канбану в кросс-функциональных командах. Уделяем много времени тестированию и качеству продукта. "
+    },
+    {
+        "name": "Junior начинающий Go разработчик (golang, удаленно)",
+        "URL": "https://api.hh.ru/vacancies/94890010?host=hh.ru",
+        "to_salary": 30000,
+        "from_salary": 30000,
+        "requirements": "Знание любого популярного языка программирования (python, <highlighttext>java</highlighttext>, C#, PHP, C, GO). Большим плюсом будет знание языка golang (но так как...",
+        "responsibility": "Написание программ на языке golang. Участие в code review. Поддержка и рефакторинг существующего кода."
+    },
+    {
+        "name": "Junior golang developer (Synapse)",
+        "URL": "https://api.hh.ru/vacancies/95508340?host=hh.ru",
+        "to_salary": 150000,
+        "from_salary": null,
+        "requirements": "Коммерческий опыт разработки Go от 1 года или на <highlighttext>Java</highlighttext> от 2 лет с желанием освоить Go. Понимание и опыт...",
+        "responsibility": "Разрабатывать и поддерживать компоненты платформы Synapse. Анализировть дефекты и новые требования. Участвовать в развитии архитектуры платформы. Использовать современные подходы, инструменты..."
+    },
+    {
+        "name": "Аналитик (1С: Управление торговлей)",
+        "URL": "https://api.hh.ru/vacancies/94771788?host=hh.ru",
+        "to_salary": 280000,
+        "from_salary": 150000,
+        "requirements": "Опыт работы аналитиком на платформе 1С 8.3 от 3 лет. Опыт с 1С:Управление торговлей от 1...",
+        "responsibility": "Сбор требований и их формализация. Моделирование бизнес-процессов заказчика. Постановка задач <highlighttext>разработчику</highlighttext>. Функциональное тестирование изменений. Презентация разработанного функционала заказчику. "
+    },
+    {
+        "name": "Стажёр по направлению \"QA\" от SBERSEASONS",
+        "URL": "https://api.hh.ru/vacancies/96244735?host=hh.ru",
+        "to_salary": 41400,
+        "from_salary": null,
+        "requirements": "Необходимые навыки: — JavaScript. Преимуществом будет: — SQL. — REST API.",
+        "responsibility": "анализировать тестовые модели и уровень покрытия функционала тестами. — автоматизировать процесс непрерывного развертывания и интеграции. — взаимодействовать со смежными командами (аналитиками, <highlighttext>разработчиками</highlighttext>..."
+    },
+    {
+        "name": "Программист-стажер",
+        "URL": "https://api.hh.ru/vacancies/95912378?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Обладаешь учебным опытом разработки на любом из объектно-ориентированных языков программирования (<highlighttext>Java</highlighttext>, C#, C++, Python и т.д.). ",
+        "responsibility": "Обучение продукту западного вендора Pegasystems. Моделирование бизнес-процессов с помощью BPM-нотации и встроенного редактора процессов Pega, разработка бизнес-логики. "
+    },
+    {
+        "name": "QA Engineer",
+        "URL": "https://api.hh.ru/vacancies/96187476?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Умение читать код на <highlighttext>Java</highlighttext>. Понимание микросервисной архитектуры. Знания систем автоматизированного тестирования и написание автотестов (на <highlighttext>Java</highlighttext>). Опыт работы с...",
+        "responsibility": "...сценариев тестирования, ведение базы дефектов, контроль исправления. Составление отчетов о тестировании. Опыт взаимодействия с кроссфункциональной командой - продактами, проджектами, <highlighttext>разработчиками</highlighttext>, тестировщиками."
+    },
+    {
+        "name": "Разработчик мобильных приложений (Junior)",
+        "URL": "https://api.hh.ru/vacancies/96163487?host=hh.ru",
+        "to_salary": null,
+        "from_salary": 40000,
+        "requirements": "Знание стеков технологий: <highlighttext>Java</highlighttext>, Flutter. Умение интерпретироваться по API. Навыки верстки приложения через Figma приветствуются. Техническое образование (возможно, последние курсы...",
+        "responsibility": "Hеформальное общение на “ты” с любым сотрудником. Разработка мобильных приложений для платформ Android, iOS. Оптимизация и стабильность кода. "
+    },
+    {
+        "name": "Стажер Python/C# developer",
+        "URL": "https://api.hh.ru/vacancies/94391819?host=hh.ru",
+        "to_salary": 35000,
+        "from_salary": null,
+        "requirements": "Базовое знание Python, а также статически типизированного языка с ООП (C#, С++, <highlighttext>Java</highlighttext> и др.), предпочтительно .NET/C#. ",
+        "responsibility": "Решать задачи клиентов, обеспечивая надежную работу продукта 24/7. Правильно выяснять бизнес-требования у заказчика. Высоконагруженная инфраструктура: 200 ТБ данных..."
+    },
+    {
+        "name": "Junior iOS разработчик",
+        "URL": "https://api.hh.ru/vacancies/95994047?host=hh.ru",
+        "to_salary": null,
+        "from_salary": 50000,
+        "requirements": "Знает хотя бы один из языков программирования Python / C++ / C / <highlighttext>Java</highlighttext>. С горящими глазами, свежими идеями, полон энтузиазма. ",
+        "responsibility": "Трекинг времени."
+    },
+    {
+        "name": "Стажер-программист Java",
+        "URL": "https://api.hh.ru/vacancies/93889237?host=hh.ru",
+        "to_salary": 80000,
+        "from_salary": 70000,
+        "requirements": "Желательно: Опыт работы ОС Windows Server. Опыт программирования на <highlighttext>Java</highlighttext>. Опыт работы в командной строке Unix. Умение работать в команде...",
+        "responsibility": "Разработка приложений микросервисной архитектуры на <highlighttext>Java</highlighttext>. Ведение задач в Jira."
+    },
+    {
+        "name": "Java разработчик",
+        "URL": "https://api.hh.ru/vacancies/95981698?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Опыт работы с технологиями: <highlighttext>Java</highlighttext> 8+, SpringBoot, Postgres, Kafka, Hibernate/JPA. Опыт работы с инструментами: Intellij Idea, SonarQube, Apache...",
+        "responsibility": "Backend-разработка разработка, внедрение и сопровождение web-приложений. Разработка новых и доработка сервисов обработки данных, API для доступа. "
+    },
+    {
+        "name": "Разработчик Java (Junior)",
+        "URL": "https://api.hh.ru/vacancies/95131137?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Отличное знание <highlighttext>Java</highlighttext> Core. Готовность работать полный рабочий день в графике 5/2 по московскому времени (после окончания курсов). ",
+        "responsibility": null
+    },
+    {
+        "name": "Разработчик iOS",
+        "URL": "https://api.hh.ru/vacancies/96105506?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Есть понимание основ разработки backend (<highlighttext>Java</highlighttext>) и баз данных (PostgreSQL). Умение верстать всё из Figma. Знание других языков программирования. ",
+        "responsibility": "Принимать участие в разработке и обсуждениях архитектуры приложения. Взаимодействовать с <highlighttext>разработчиками</highlighttext> Android и бэкенд, дизайнерами пользовательского интерфейса, менеджерами проектов и..."
+    },
+    {
+        "name": "Стажёр по направлению \"Java\" от SBERSEASONS",
+        "URL": "https://api.hh.ru/vacancies/96221107?host=hh.ru",
+        "to_salary": 41400,
+        "from_salary": null,
+        "requirements": "Необходимые навыки: — <highlighttext>Java</highlighttext> или Kotlin. — Spring Core. — Git. — Linux command line. Твоим преимуществом будет: — знание паттернов поведения SOLID. — ",
+        "responsibility": "участвовать в проекте в роли backend-<highlighttext>разработчика</highlighttext>. — авзаимодействовать с аналитиками, frontend и backend-<highlighttext>разработчиками</highlighttext> и другими участниками команды в рамках..."
+    },
+    {
+        "name": "Back-end разработчик (Junior)",
+        "URL": "https://api.hh.ru/vacancies/94513797?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Участие в разработке enterprise решений. Опыт работы с фреймворками (Spring для <highlighttext>JAVA</highlighttext> и т.д.). Опыт работы с Hibernate, Entity...",
+        "responsibility": "Прохождение курсов и тренингов, чтение книг и выполнение заданий для сдачи экзамена на соответствие позиции \"<highlighttext>разработчик</highlighttext>\" (middle). Разработка серверной части..."
+    },
+    {
+        "name": "Начинающий программист",
+        "URL": "https://api.hh.ru/vacancies/96228348?host=hh.ru",
+        "to_salary": 25000,
+        "from_salary": 25000,
+        "requirements": "Чтение английской документации. Способность быстро интегрировать готовые решения в текущую архитектуру. Умение гуглить любые нестандартные задачи. Дополнительным плюсом является разговорный...",
+        "responsibility": "Разработка веб-ресурсов."
+    },
+    {
+        "name": "Middle Java Developer",
+        "URL": "https://api.hh.ru/vacancies/94918310?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Что нужно знать: Опыт написания микросервисов.",
+        "responsibility": "Разработка новых и поддержка существующих сервисов в рамках программы \"Цифровизация клиентского сервиса\". Оценка и декомпозиция задач. Проектирование структур БД, оптимизация..."
+    },
+    {
+        "name": "Web-разработчик (Front end, сайты, Junior)",
+        "URL": "https://api.hh.ru/vacancies/96031106?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Программирование ботов для мессенджеров ВК и Telegram. Базовый уровень HTML, <highlighttext>Java</highlighttext>, CSS. Понимание адаптивной верстки и работа с основными CMS. ",
+        "responsibility": "Разрабатывать и поддерживать сайты клиентов и собственные сайты компании. Обеспечивать размещение сайтов на хостингах, настройку серверов, почты, рассылок, ftp и..."
+    },
+    {
+        "name": "Java-стажер",
+        "URL": "https://api.hh.ru/vacancies/95818429?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Понимание принципов ООП. - Базовые знания <highlighttext>Java</highlighttext> (объекты, типы, циклы). - Минимальные знания <highlighttext>java</highlighttext>-core, collections, SQL. - Наличие опыта работы с Git. ",
+        "responsibility": "Прохождение курса лекций и выполнение всех задании. - Использование актуальных инструментов разработки (Git, Jira и т.п.). - Представление о процессе разработки."
+    },
+    {
+        "name": "Программист-стажер",
+        "URL": "https://api.hh.ru/vacancies/95520595?host=hh.ru",
+        "to_salary": null,
+        "from_salary": 60000,
+        "requirements": "Навыки в разработке Win32 приложений. Навыки написания SQL запросов. Желание обучаться.",
+        "responsibility": "Разработка и поддержка бек-офиса для предприятий Гражданской авиации. Разработка нового и поддержка существующего функционала с использованием PowerBuilder, Oracle Database..."
+    },
+    {
+        "name": "Программист",
+        "URL": "https://api.hh.ru/vacancies/96230826?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Знание языков: Лисп, Delphi, Perl, Паскаль, PHP, Ruby, Python, <highlighttext>Java</highlighttext>, JavaScript, C#, C++. Желательно знание языка Transact-SQL.",
+        "responsibility": "Сопровождение и доработка ЕРП Олимп."
+    },
+    {
+        "name": "Java-программист",
+        "URL": "https://api.hh.ru/vacancies/95300146?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Требуется <highlighttext>Java</highlighttext> <highlighttext>разработчик</highlighttext>, опыт не важен, важно умение писать на <highlighttext>java</highlighttext>. Технологии:",
+        "responsibility": "Разработка простых <highlighttext>java</highlighttext> приложений."
+    },
+    {
+        "name": "Разработчик Java (Junior)",
+        "URL": "https://api.hh.ru/vacancies/95131136?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Отличное знание <highlighttext>Java</highlighttext> Core. Готовность работать очно из офиса в Москве будет вашим конкурентным преимуществом, хоть и не является обязательным. ",
+        "responsibility": null
+    },
+    {
+        "name": "ReactJS Developer",
+        "URL": "https://api.hh.ru/vacancies/94696730?host=hh.ru",
+        "to_salary": 150000,
+        "from_salary": null,
+        "requirements": "Будет плюсом: Знания и опыт в Backend (NodeJS или <highlighttext>Java</highlighttext>). Знание английского языка. Высшее образование в IT. В обмен на...",
+        "responsibility": "INFINITE SYNERGY — IT РЕШЕНИЯ, ГДЕ ВСТРЕЧАЮТСЯ ПАРТНЕРСТВО И ПРОФЕССИОНАЛИЗМ! Помогаем коммерческим и государственным предприятиям получать измеримые результаты от цифровой трансформации..."
+    },
+    {
+        "name": "Middle Frontend Developer",
+        "URL": "https://api.hh.ru/vacancies/96207277?host=hh.ru",
+        "to_salary": 180000,
+        "from_salary": 140000,
+        "requirements": "Коммерческий опыт работы с React JS от 3-х лет. Опыт реализации SPA веб-приложений. Знание протокола клиент-серверного взаимодействия...",
+        "responsibility": "Принимать участие в разработке новых и существующих проектов. Принимать участие в проектировании архитектуры проектов. Постоянно развиваться в рамках своей профессиональной..."
+    },
+    {
+        "name": "Senior Java Developer (Remote)",
+        "URL": "https://api.hh.ru/vacancies/95510804?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Rest API, Swagger. PostgresSQL. Docker, docker-compose. Gitlab CI/CD. JUnit 5, Test NG. Любишь работать удаленно. Командная работа для...",
+        "responsibility": "Профилирование приложений, troubleshooting. Контейнеризация приложений и логирование. Проектировать и разрабатывать новый функционал к новым продуктам банка. Поддерживать <highlighttext>Java</highlighttext> приложение с..."
+    },
+    {
+        "name": "Java разработчик (Middle)",
+        "URL": "https://api.hh.ru/vacancies/95857907?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Коммерческий опыт работы с <highlighttext>Java</highlighttext> от 4 лет. <highlighttext>Java</highlighttext> 11+ (коллекции, stream, исключения, наследование и ООП). Spring Framework (Integration...",
+        "responsibility": "Участие в разработке ПО для внешних заказчиков (сайты, API, backend для нагруженных сервисов)."
+    },
+    {
+        "name": "Middle Java developer",
+        "URL": "https://api.hh.ru/vacancies/94567892?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Глубокое понимание объектно-ориентированного программирования и шаблонов проектирования. Опыт применения Spring, Hibernate. Опыт работы с реляционными и нереляционными базами данных.",
+        "responsibility": "Разрабатывать и развивать новые микросервисные продукты в банковском секторе. Проводить аудит текущих решений на предмет идей улучшений (а может, и..."
+    },
+    {
+        "name": "Junior Groovy/Java разработчик",
+        "URL": "https://api.hh.ru/vacancies/96247538?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Опыт промышленной разработки либо реализация учебных проектов на <highlighttext>Java</highlighttext> или Groovy. Круто, если приложите ссылки на примеры кода (например, на...",
+        "responsibility": "Над чем предстоит работать: Исправлять дефекты и реализовывать новые фичи в портале самообслуживания (Groovy, <highlighttext>Java</highlighttext>). Развивать внутреннюю инфраструктуру продукта (docker..."
+    },
+    {
+        "name": "Frontend-разработчик",
+        "URL": "https://api.hh.ru/vacancies/96120943?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Отличное знание CSS3, HTML5. Хорошее знание <highlighttext>Java</highlighttext>-script (jquery, vue.js). Опыт реализации проектов на vue.js обязателен. ",
+        "responsibility": "Разработка интернет-проектов (сайтов, CRM, интернет-магазинов) для известных брендов. Участие в разработке внутренних веб-сервисов компании. Поддержка и развитие..."
+    },
+    {
+        "name": "Junior Java developer",
+        "URL": "https://api.hh.ru/vacancies/94824174?host=hh.ru",
+        "to_salary": 60000,
+        "from_salary": 50000,
+        "requirements": "Reactive programming.",
+        "responsibility": null
+    },
+    {
+        "name": "Front-end Разработчик",
+        "URL": "https://api.hh.ru/vacancies/95945318?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Хорошее знание Angular-2 (версия 16 и выше). Знание Type Script, <highlighttext>Java</highlighttext> Script, CSS, вебкомпонентов. Знание JSON. Опыт командной работы...",
+        "responsibility": "Участвовать в разработке и сопровождении фронт-части приложений, API. Поддержка и развитие существующего функционала."
+    },
+    {
+        "name": "Java Developer",
+        "URL": "https://api.hh.ru/vacancies/95905806?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Отличные знания <highlighttext>Java</highlighttext> 11+ и Kotlin. Знания Spring / Spring Boot / Spring Cloud. Дружеские отношения с DevOps, пайплайны, контейнеризация и...",
+        "responsibility": "Хотите делать процесс разработки эффективным с помощью правильных инструментов (Binary Release Management, CI/CD, Scrum/Kanban)."
+    },
+    {
+        "name": "Middle Java Developer",
+        "URL": "https://api.hh.ru/vacancies/88474606?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Опыт промышленной разработки на <highlighttext>Java</highlighttext> от 2-х лет. Уверенное владение Spring. Умение работать с базами данных (Oracle, PostgreSQL). ",
+        "responsibility": "Участие в проекте в роли <highlighttext>разработчика</highlighttext>. Проектирование технический решений и оценка трудозатрат. Разработка интеграционных решений. Разработка новой функциональности в соответствии..."
+    },
+    {
+        "name": "Back-end разработчик (Junior)",
+        "URL": "https://api.hh.ru/vacancies/95675871?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Участие в разработке enterprise решений. Опыт работы с фреймворками (Spring для <highlighttext>JAVA</highlighttext> и т.д.). Опыт работы с Hibernate, Entity...",
+        "responsibility": "Прохождение курсов и тренингов, чтение книг и выполнение заданий для сдачи экзамена на соответствие позиции \"<highlighttext>разработчик</highlighttext>\" (middle). Разработка серверной части..."
+    },
+    {
+        "name": "Программист-стажер",
+        "URL": "https://api.hh.ru/vacancies/95138876?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Обладаешь учебным опытом разработки на любом из объектно-ориентированных языков программирования (<highlighttext>Java</highlighttext>, C#, C++, Python и т.д.). ",
+        "responsibility": "Обучение продукту западного вендора Pegasystems. Моделирование бизнес-процессов с помощью BPM-нотации и встроенного редактора процессов Pega, разработка бизнес-логики. "
+    },
+    {
+        "name": "Junior Java Developer",
+        "URL": "https://api.hh.ru/vacancies/95540902?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Опыт работы с <highlighttext>Java</highlighttext> 8+. Spring Framework ⁣(Core, Boot, Data, Security). JUnit/Mockito. SQL, JDBC, Hibernate. Maven/Gradle. PostgreSQL. ",
+        "responsibility": "Разработка бэкенд-сервисов. Написание Unit-тестов. Рефакторинг и оптимизация кода, Code review. Документирование кодовой базы."
+    },
+    {
+        "name": "Стажер Back-end разработчика (php, python, c#)",
+        "URL": "https://api.hh.ru/vacancies/89753481?host=hh.ru",
+        "to_salary": 30000,
+        "from_salary": 15000,
+        "requirements": "Знание одного из языков: php, python, <highlighttext>java</highlighttext>, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если...",
+        "responsibility": "Разработка на bitrix framework. Разработка API для мобильных приложений и веб-интерфейсов. Интеграция по API с внешними сервисами (банки, доставщики..."
+    },
+    {
+        "name": "Java разработчик",
+        "URL": "https://api.hh.ru/vacancies/95881434?host=hh.ru",
+        "to_salary": 240000,
+        "from_salary": 150000,
+        "requirements": "Опыт работы со всеми указанными технологиями по направлению <highlighttext>Java</highlighttext>: Spring, Hibernate, Gradle, JMS, JAX-WS, Git, Jenkins, UML, Junit. ",
+        "responsibility": "Участие в разработке или тестировании распределенных систем или баз данных."
+    },
+    {
+        "name": "Java Developer",
+        "URL": "https://api.hh.ru/vacancies/95908108?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Опыт работы с СУБД PostgreSQL. Опыт работы с Git, Gradle. <highlighttext>Java</highlighttext> 17. Spring Framework. Postgresql 14.7. Hibernate. Gradle. Git. ",
+        "responsibility": "Разработка и сопровождение исходных кодов высоконагруженных систем. Сборка и обновление высоконагруженных систем. Оценка трудоемкости задач и выполнение их в срок. "
+    },
+    {
+        "name": "Junior QA / Тестировщик",
+        "URL": "https://api.hh.ru/vacancies/94610595?host=hh.ru",
+        "to_salary": null,
+        "from_salary": 50000,
+        "requirements": "Базовые знания HTML / CSS, понимание принципов UX. Базовые знания <highlighttext>Java</highlighttext>. Приветствуется опыт создания и поддержки автотестов. Приветствуется опыт работы с...",
+        "responsibility": "В перспективе — расширение зоны покрытия автотестов. Контроль релизов, мониторинг ключевых зон проектов. Баг-репорт <highlighttext>разработчикам</highlighttext>. Ведение документации по тестированию."
+    },
+    {
+        "name": "Стажер-разработчик (Воронеж)",
+        "URL": "https://api.hh.ru/vacancies/96082628?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": null,
+        "responsibility": "на какую программу подал заявку? 4. После этого будет техническое собеседование с командой по выбранному направлению. - на какую программу подал..."
+    },
+    {
+        "name": "Java-разработчик",
+        "URL": "https://api.hh.ru/vacancies/96168048?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Понимание ООП и знание паттернов проектирования. Опыт разработки на <highlighttext>Java</highlighttext> от 2 лет. Опыт работы со Spring Boot, Spring Data...",
+        "responsibility": "Разработка, развитие и поддержка RESTful сервисов на фреймворке <highlighttext>Java</highlighttext> Spring. Разработка SQL запросов. Проектирование и реализация интеграционных маршрутов с использованием..."
+    },
+    {
+        "name": "Android developer",
+        "URL": "https://api.hh.ru/vacancies/95309637?host=hh.ru",
+        "to_salary": 120000,
+        "from_salary": 70000,
+        "requirements": "Имеете опыт реактивного программирования (RxJava2). - Имеете опыт работы с сетевыми протоколами (HTTP, REST, JSON и др.). - Знакомы с концепциями...",
+        "responsibility": "Разрабатывать и поддерживать мобильное приложение с нуля. - Создавать удобный и понятный для пользователей интерфейса по макету."
+    },
+    {
+        "name": "Java разработчик",
+        "URL": "https://api.hh.ru/vacancies/95287088?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Опыт разработки на <highlighttext>Java</highlighttext> от 3 лет (Middle) или от 5 лет (Senior), с использованием 11/17 версий. - ",
+        "responsibility": "Проектирование и разработка компонентов. - Обновление как отдельных участков, так и целых кластеров действующей инфраструктуры сегмента ФинТех. - Проведение код-ревью, документирование..."
+    },
+    {
+        "name": "Программист",
+        "URL": "https://api.hh.ru/vacancies/95973049?host=hh.ru",
+        "to_salary": 90000,
+        "from_salary": 70000,
+        "requirements": "...с <highlighttext>Java</highlighttext> от 3 лет. Опыт работы с реляционными СУБД. Знание средств разработки и сборки проектов (Git,Maven). Знания <highlighttext>Java</highlighttext>...",
+        "responsibility": null
+    },
+    {
+        "name": "Java Developer Trainee",
+        "URL": "https://api.hh.ru/vacancies/94541037?host=hh.ru",
+        "to_salary": 20000,
+        "from_salary": null,
+        "requirements": "Понимание принципов ООП, понимание алгоритмов и структур данных, знание <highlighttext>Java</highlighttext> Core. Обязательное знание основ <highlighttext>Java</highlighttext> EE (Servlets, jsp). ",
+        "responsibility": "Корпоративный портал с материалами для изучения любого нового стека и повышения уровня по своей специальности и не только. "
+    },
+    {
+        "name": "Стажёр по направлению \"QA\" от SBERSEASONS",
+        "URL": "https://api.hh.ru/vacancies/96248346?host=hh.ru",
+        "to_salary": 63600,
+        "from_salary": null,
+        "requirements": "Необходимые навыки: — JavaScript. Преимуществом будет: — SQL. — REST API.",
+        "responsibility": "анализировать тестовые модели и уровень покрытия функционала тестами. — автоматизировать процесс непрерывного развертывания и интеграции. — взаимодействовать со смежными командами (аналитиками, <highlighttext>разработчиками</highlighttext>..."
+    },
+    {
+        "name": "Java Developer (портал gosuslugi)",
+        "URL": "https://api.hh.ru/vacancies/95897844?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Опыт в роли <highlighttext>разработчика</highlighttext> <highlighttext>Java</highlighttext> от 2 лет. Опыт разработки приложений на <highlighttext>Java</highlighttext> 11. Опыт использования брокеров сообщений для обработки...",
+        "responsibility": "Разработка и поддержка микросервисов для обработки потоков данных. Оптимизация компонентов системы под hi-load. Реализация и поддержка интеграции микросервисов с..."
+    },
+    {
+        "name": "Java-разработчик младшего/среднего уровня (junior/middle Java developer)",
+        "URL": "https://api.hh.ru/vacancies/95569797?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Уверенное знание <highlighttext>Java</highlighttext> SE, понимание принципов ООП и паттернов проектирования. Знание SQL, понимание принципов работы реляционных СУБД. Умение пользоваться сиcтемами...",
+        "responsibility": null
+    },
+    {
+        "name": "Java-разработчик",
+        "URL": "https://api.hh.ru/vacancies/96188978?host=hh.ru",
+        "to_salary": 250000,
+        "from_salary": 150000,
+        "requirements": "Уверенное знание языка <highlighttext>Java</highlighttext> SE (11-17), Spring framework (mvc, rest, security), CXF (SOAP). Знание и опыт работы с системами...",
+        "responsibility": "Разработка и сопровождение одного из ключевых проектов компании. Участие в обсуждении требований, анализ возникающих багов. Планирование вектора развития системы, управление..."
+    },
+    {
+        "name": "Java Developer (Junior+/Middle)",
+        "URL": "https://api.hh.ru/vacancies/95905946?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Имеешь коммерческий опыт работы с <highlighttext>Java</highlighttext>, Spring от 1 года. Непрерывное развитие профессиональных навыков и личных компетенций: оплачиваем сертификацию по...",
+        "responsibility": "О проектах: участие в уже запущенных проектах - связаны с заправочными станциями; участие в новых проектах с \"0\" - комплексные цифровые решения..."
+    },
+    {
+        "name": "Middle React-разработчик",
+        "URL": "https://api.hh.ru/vacancies/96262003?host=hh.ru",
+        "to_salary": 150000,
+        "from_salary": 90000,
+        "requirements": "Опыт коммерческой разработки на React не менее 3 лет. Уверенное знание Redux, TypeScript, верстки. Опыт работы с системой контроля версий...",
+        "responsibility": "Afterlogic в поисках React-<highlighttext>разработчика</highlighttext> уровня Middle и выше."
+    },
+    {
+        "name": "QA Engineer (Middle)",
+        "URL": "https://api.hh.ru/vacancies/96071694?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Знаете одного или нескольких языков программирования (<highlighttext>Java</highlighttext>/Kotlin, Swift, JavaScript). Опыт написания автотестов:для веб | android или iOS-приложений. ",
+        "responsibility": "Тестирование новых модулей и продуктов. Предстоит проводить полный цикл тестирования реализуемых командой разработки решений. Процесс тестирования начинается с участия в..."
+    },
+    {
+        "name": "Программист Java (junior)",
+        "URL": "https://api.hh.ru/vacancies/95871551?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Опыт программирования на <highlighttext>Java</highlighttext> 17. Опыт работы с Spring, Spring Boot, Hibernate. Понимание принципов ООП и шаблонов проектирования. ",
+        "responsibility": "Разработка процессов и сервисов в сложных интеграционных проектах. Разработка нового функционала, и развитие существующего. Активное участие в решении архитектурных вопросов. "
+    },
+    {
+        "name": "QA Engineer",
+        "URL": "https://api.hh.ru/vacancies/94512084?host=hh.ru",
+        "to_salary": null,
+        "from_salary": 100000,
+        "requirements": "Умение и желание ясно выражать свои мысли, как письменно, так и при общении с <highlighttext>разработчиками</highlighttext>. Желание работать, развиваться и совершенствовать...",
+        "responsibility": "Компания «Симикон» – один из лидеров российского рынка по разработке и производству систем контроля дорожного движения. Мы прошли путь от выпуска..."
+    },
+    {
+        "name": "Frontend-разработчик (удаленно)",
+        "URL": "https://api.hh.ru/vacancies/94347214?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Уверенные знания в JS (ES6), опыт работы с TypeScript. Уверенное знание и опыт работы с Vue.js 2/3 и...",
+        "responsibility": "Собственная команда разработки. Современный технологический стек (<highlighttext>Java</highlighttext> / Kotlin, PostgreSQL, Kafka, Camunda, Kubernetes, Vue). Актуальные инструменты: BPMN 2.0, Archimate, Plant..."
+    },
+    {
+        "name": "QA - Инженер по тестированию",
+        "URL": "https://api.hh.ru/vacancies/96126821?host=hh.ru",
+        "to_salary": 100000,
+        "from_salary": 50000,
+        "requirements": "Опыт тестирования API. - Знание одного или нескольких языков программирования - Python - <highlighttext>Java</highlighttext>. - Опыт работы и практика в одной из систем по...",
+        "responsibility": "Тестирование web приложения. - Тестирование мобильного приложения на iOS/Android. - Написание тестовой документации. - Участие в обсуждении задач. - Мониторинг логов. - Проведение исследований. - "
+    },
+    {
+        "name": "Java-разработчик в IT-компанию (удаленная работа)",
+        "URL": "https://api.hh.ru/vacancies/95882718?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Умение балансировать качеством и скоростью работы. Решать задачи наиболее оптимальным путем. Знания <highlighttext>Java</highlighttext>. Умение разбираться в чужом коде и улучшать...",
+        "responsibility": "Разработка backend в тесной взаимосвязи с продуктовой командой. Взаимодействие с frontend <highlighttext>разработчиками</highlighttext>. Находить простые решения сложным и интересным задачам. "
+    },
+    {
+        "name": "Android разработчик",
+        "URL": "https://api.hh.ru/vacancies/96020646?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "Умеешь писать код на Kotlin и работать с библиотеками, написанными на <highlighttext>Java</highlighttext>. Использовал Dagger2/Hilt. Базовые знания верстки на...",
+        "responsibility": "Улучшение текущего функционала. Реализация нового функционала. Рефакторинг, код ревью. Пишем код на Kotlin. Для работы с сетью используем Retrofit. "
+    },
+    {
+        "name": "Java Developer (Middle)",
+        "URL": "https://api.hh.ru/vacancies/96150392?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "3+ years of <highlighttext>development</highlighttext> experience. <highlighttext>Java</highlighttext> 17 experience. Strong Rest Services with API-First (OpenAPI). Logs management, kibana, grafana. ",
+        "responsibility": "Implementation of the brokerage software, from planning and prioritizing to testing and release."
+    },
+    {
+        "name": "IOS разработчик (junior+/middle)",
+        "URL": "https://api.hh.ru/vacancies/96064244?host=hh.ru",
+        "to_salary": 110000,
+        "from_salary": 60000,
+        "requirements": "Обязательно Jira. Технический английский язык (иногда чтение документации или ТЗ). Есть понимание основ разработки backend (golang, <highlighttext>java</highlighttext>) и баз данных...",
+        "responsibility": "Расширяем команду для реализации новых проектов. Писать качественный код на Swift. Есть приложения в AppStore (свои или совместные с прошлых..."
+    },
+    {
+        "name": "IT Специалист технической поддержки/ Аккаунт-менеджер",
+        "URL": "https://api.hh.ru/vacancies/95895330?host=hh.ru",
+        "to_salary": 500000,
+        "from_salary": 150000,
+        "requirements": "Начальный опыт программирования на <highlighttext>JAVA</highlighttext>. - Опыт работы с базами данных (SQL, PostgreSQL и др.). - Знание архитектуры WEB приложений. - ",
+        "responsibility": "Среди наших Заказчиков - Jusan Bank, MonAmie, Kaspi Bank, Bereke Bank и многие другие. Мы помогаем нашим Клиентам масштабировать их бизнес..."
+    },
+    {
+        "name": "Программист (backend Java)",
+        "URL": "https://api.hh.ru/vacancies/96245991?host=hh.ru",
+        "to_salary": null,
+        "from_salary": null,
+        "requirements": "<highlighttext>Java</highlighttext> 11 и выше. Умение писать чистый понятный код. Опыт взаимодействия с аналитиками, <highlighttext>разработчиками</highlighttext>, тестировщиками. Знание основных шаблонов проектирования приложений. ",
+        "responsibility": "Командная разработка. Работа с аналитиками, руководителями проектов и ИТ-командой. Оценка задач. Участие в ревью кода. Разработка back-end части..."
+    }
+]
