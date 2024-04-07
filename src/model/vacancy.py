@@ -15,13 +15,13 @@ class Vacancy:
         self.responsibility = responsibility
 
     def __str__(self):
-        return (f"=====================================================\n"
+        return (f"=====================================\n"
                 f"Название: {self.name}\n"
                 f"URL: {self.url}\n"
                 f"Зарплата: от {self.from_salary} до {self.to_salary}\n"
                 f"Требования: {self.requirements}\n"
                 f"Обязанности: {self.responsibility}\n"
-                f"=====================================================")
+                f"=====================================")
 
     def __lt__(self, other):
         """Метод сравнения вакансий: меньше"""
@@ -40,3 +40,32 @@ class Vacancy:
         if self.to_salary is None or other.to_salary is None:
             return False
         return self.to_salary == other.to_salary
+
+    @staticmethod
+    def filter_by_salary(salary_range, vacancies):
+        """
+        Метод для фильтрации вакансий по зарплате
+        :param vacancies:
+        :param salary_range:
+        :return:
+        """
+        from_salary_str, to_salary_str = salary_range.split("-")
+        from_salary = int(from_salary_str)
+        to_salary = int(to_salary_str)
+
+        filtered_vacancies = []
+
+        for vacancy in vacancies:
+
+            if vacancy.from_salary is not None and vacancy.to_salary is not None:
+                if from_salary <= vacancy.from_salary <= to_salary or \
+                        from_salary <= vacancy.to_salary <= to_salary:
+                    filtered_vacancies.append(vacancy)
+            elif vacancy.from_salary is not None:
+                if from_salary <= vacancy.from_salary <= to_salary:
+                    filtered_vacancies.append(vacancy)
+            elif vacancy.to_salary is not None:
+                if from_salary <= vacancy.to_salary <= to_salary:
+                    filtered_vacancies.append(vacancy)
+
+        return filtered_vacancies
