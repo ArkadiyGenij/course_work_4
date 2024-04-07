@@ -45,9 +45,9 @@ class Vacancy:
     def filter_by_salary(salary_range, vacancies):
         """
         Метод для фильтрации вакансий по зарплате
-        :param vacancies:
-        :param salary_range:
-        :return:
+        :param vacancies: список вакансий
+        :param salary_range: диапазон зарплат
+        :return: список отфильтрованных вакансий
         """
         from_salary_str, to_salary_str = salary_range.split("-")
         from_salary = int(from_salary_str)
@@ -56,7 +56,6 @@ class Vacancy:
         filtered_vacancies = []
 
         for vacancy in vacancies:
-
             if vacancy.from_salary is not None and vacancy.to_salary is not None:
                 if from_salary <= vacancy.from_salary <= to_salary or \
                         from_salary <= vacancy.to_salary <= to_salary:
@@ -69,3 +68,23 @@ class Vacancy:
                     filtered_vacancies.append(vacancy)
 
         return filtered_vacancies
+
+    @staticmethod
+    def cast_to_object(data):
+        """
+        Метод для преобразования списка JSON объектов в список объектов класса Vacancy
+        :param data: Список JSON объектов
+        :return: Список объектов Vacancy
+        """
+        vacancies = []
+
+        for vacancy in data:
+            obj_vacancy = Vacancy(vacancy["name"],
+                                  vacancy["URL"],
+                                  vacancy["to_salary"],
+                                  vacancy["from_salary"],
+                                  vacancy["requirements"],
+                                  vacancy["responsibility"])
+            vacancies.append(obj_vacancy)
+
+        return vacancies

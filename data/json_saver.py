@@ -18,11 +18,14 @@ class JSON(JSON_abc):
         data = []
 
         for vacancy in vacancies:
+            to_salary = vacancy["salary"].get("to") if vacancy["salary"] is not None else None
+            from_salary = vacancy["salary"].get("from") if vacancy["salary"] is not None else None
+
             vacancies_data = {
                 "name": vacancy["name"],
                 "URL": vacancy["url"],
-                "to_salary": vacancy["salary"]["to"],
-                "from_salary": vacancy["salary"]["from"],
+                "to_salary": to_salary,
+                "from_salary": from_salary,
                 "requirements": vacancy["snippet"]["requirement"],
                 "responsibility": vacancy["snippet"]["responsibility"]
             }
@@ -37,14 +40,6 @@ class JSON(JSON_abc):
         :return: Список объектов Vacancy
         """
         with open(self.filename, "r", encoding="utf-8") as file:
-            vacancies = []
             data = json.load(file)
-            for vacancy in data:
-                obj_vacancy = Vacancy(vacancy["name"],
-                                      vacancy["url"],
-                                      vacancy["to_salary"],
-                                      vacancy["from_salary"],
-                                      vacancy["requirements"],
-                                      vacancy["responsibility"])
-                vacancies.append(obj_vacancy)
+            vacancies = Vacancy.cast_to_object(data)
             return vacancies
